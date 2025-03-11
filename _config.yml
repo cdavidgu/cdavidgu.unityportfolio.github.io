@@ -1,0 +1,6 @@
+title: Christian Gonzalez
+Description: Unity Developer | AR Developer
+remote_theme: pages-themes/minimal@v0.2.0
+show_downloads: false
+plugins:
+- jekyll-remote-theme 
